@@ -1,16 +1,18 @@
-### Hi there 👋
+### I'm Software engineer
+*Bending reality into your profit*
+[My CV](http://www.tynrare.net/docs/resume-2020.pdf)
 
-<!--
-**tynrare/tynrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interactive demos
 
-Here are some ideas to get you started:
+- [Shaders](http://www.tynrare.net/apps/experiments/shaders/)
+- [Exams code](http://www.tynrare.net/apps/exams/)
+- [Art Assistance](http://www.tynrare.net/apps/projects/art-assistance/?meshname=cube)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Code
+
+- [Webpack template](https://github.com/tynrare/webpack-template) 
+
+## Materials
+
+- [My links collection](https://gist.github.com/tynrare/428cfbf55960c37cf39a812ad6afeebf)
