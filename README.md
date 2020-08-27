@@ -31,3 +31,4 @@
 ## Materials
 
 - [My links collection](https://gist.github.com/tynrare/428cfbf55960c37cf39a812ad6afeebf)
+- [My snippets collection](https://gist.github.com/tynrare/acaad328e50fa1d7b3c8aa71512c1cff)
