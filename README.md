@@ -1,7 +1,18 @@
-### I'm Software engineer
+# I'm Software engineer
 *Bending reality into your profit*
 
-[My CV](http://www.tynrare.net/docs/resume-2020.pdf)
+## About me
+
+- [My CV](http://www.tynrare.net/docs/resume-2020.pdf)
+
+## Contacts
+
+- [Site](https://me.tynrare.net/)
+- [Github](https://github.com/tynrare)
+- [Twitter](https://twitter.com/tynrare)
+- [Stackoverflow](https://stackoverflow.com/users/7829041)
+
+# My work
 
 ## Interactive demos
 
