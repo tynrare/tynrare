@@ -6,7 +6,7 @@
 ## Interactive demos
 
 - [Shaders](http://www.tynrare.net/apps/experiments/shaders/). Pure glsl
-- [Exams code](http://www.tynrare.net/apps/exams/)
+- [Exams code](http://www.tynrare.net/apps/exams/).
 - [Art Assistance](http://www.tynrare.net/apps/projects/art-assistance/?meshname=cube). Hilo3d, JS, Blender, etc.
 
 ### Tech demos
