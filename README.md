@@ -1,5 +1,5 @@
 # I'm Software engineer
-*Bending reality into your profit*
+*Code blues*
 
 ## About me
 
