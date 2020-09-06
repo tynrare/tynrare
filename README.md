@@ -15,7 +15,13 @@
 
 # My work
 
-## Interactive demos
+## Code
+
+- [ehhh](https://github.com/tynrare/ehhh). My ongoing attempt to simplify web development.
+
+## Demos
+
+### Interactive demos
 
 - [Shaders](http://www.tynrare.net/apps/experiments/shaders/). Pure glsl
 - [Exams code](http://www.tynrare.net/apps/exams/).
@@ -24,10 +30,6 @@
 
 - [Paperio 3d](http://www.tynrare.net/apps/demos/a/). BabylonJS, Blender, etc.
 - [Art Assistance](http://www.tynrare.net/apps/projects/art-assistance/?meshname=cube). Hilo3d, JS, Blender, etc.
-
-## Code
-
-- [Webpack template](https://github.com/tynrare/webpack-template). Webpack, JS, Mocha auto tests, Karma stats
 
 ## Materials
 
