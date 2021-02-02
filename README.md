@@ -7,6 +7,8 @@
 
 ## About me
 
+You can contact me at Telegram: @tynrare
+
 - [My CV](http://www.tynrare.net/docs/resume-2020.pdf) (Really old and boring)
 
 ## Contacts & media
