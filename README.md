@@ -3,7 +3,7 @@
 
 ## Highlight
 
-- [My actual work looks like that:](https://flamboyant-brown-41a2d9.netlify.app/)
+- [My actual work looks like that.](https://flamboyant-brown-41a2d9.netlify.app/)
 
 ## About me
 
