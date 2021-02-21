@@ -27,12 +27,16 @@
 
 - [ehhh](https://github.com/tynrare/ehhh). My ongoing attempt to simplify web development.
 
+## Games
+
+- [ld47](https://tynrare.itch.io/ld47). Game for [ludum dare 47](https://ldjam.com/events/ludum-dare/47/ld47-1) (72h deadline jam) made with godot and blender
+
 ## Demos
 
 ### Interactive demos
 
 - [Shaders](http://www.tynrare.net/apps/experiments/shaders/). Pure glsl
-- [Exams code](http://www.tynrare.net/apps/exams/).
+- [Exams code](http://www.tynrare.net/apps/exams/). 
 
 ### And Tech demos
 
