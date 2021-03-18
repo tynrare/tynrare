@@ -26,6 +26,7 @@
 ## Code
 
 - [ehhh](https://github.com/tynrare/ehhh). My ongoing attempt to simplify web development.
+- [webpack-template](https://github.com/tynrare/webpack-template). My first attempt to make solid webpack template.
 
 ## Games
 
