@@ -20,6 +20,7 @@
 - [Twitter](https://twitter.com/tynrare)
 - [Stackoverflow](https://stackoverflow.com/users/7829041)
 - [Codepen](https://codepen.io/tynrare)
+- [Instagram](https://www.instagram.com/tyndustre/)
 
 # My work
 
