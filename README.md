@@ -1,6 +1,6 @@
 Game developer and technical artist.
 
-Contact me via telegram: [@tynrare](t.me/tynrare)
+Contact me via telegram: [@tynrare](https://t.me/tynrare)
 
 ## Links & media
 
