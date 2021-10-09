@@ -14,4 +14,5 @@ Contact me via telegram: [@tynrare](https://t.me/tynrare)
 
 ## Demos
 - [Shaders](http://www.tynrare.net/apps/experiments/shaders/)
-- [WebGL Math & Demos](http://www.tynrare.net/apps/demos/a/)
+- [PaperIo 3d clone](http://www.tynrare.net/apps/demos/a/)
+- [WebGL Math & Demos](https://flamboyant-brown-41a2d9.netlify.app/)
