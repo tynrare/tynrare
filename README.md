@@ -4,7 +4,7 @@ Contact me via telegram: [@tynrare](https://t.me/tynrare)
 
 ## Links & media
 
-- [Site](https://me.tynrare.net/)
+- [Site](https://me.tynrare.net/) (🔴 down)
 - [Github](https://github.com/tynrare)
 - [Github gists](https://gist.github.com/tynrare)
 - [Twitter](https://twitter.com/tynrare)
@@ -13,6 +13,6 @@ Contact me via telegram: [@tynrare](https://t.me/tynrare)
 - [Instagram](https://www.instagram.com/tyndustre/)
 
 ## Demos
-- [Shaders](http://www.tynrare.net/apps/experiments/shaders/)
-- [PaperIo 3d clone](http://www.tynrare.net/apps/demos/a/)
+- [Shaders](http://www.tynrare.net/apps/experiments/shaders/) (🔴 down)
+- [PaperIo 3d clone](http://www.tynrare.net/apps/demos/a/) (🔴 down)
 - [WebGL Math & Demos](https://flamboyant-brown-41a2d9.netlify.app/)
