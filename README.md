@@ -33,6 +33,7 @@ examples:
 
 ## Links & media
 
+- [Steam](https://steamcommunity.com/id/tynroar/)
 - [Github](https://github.com/tynrare)
 - [Github gists](https://gist.github.com/tynrare)
 - [Twitter](https://twitter.com/tynrare)
