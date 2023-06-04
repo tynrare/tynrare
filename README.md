@@ -1,7 +1,7 @@
 - [cv.](https://tynroar.netlify.app/) glsl sdf, shaders
 - [maze.](https://tynroar-maze.netlify.app/) c, raylib
 - [spa.](https://tynroar-brume2303.netlify.app/) pug, less, js
-- [dust.](https://eager-goldberg-65c5b9.netlify.app/) pug, js, less
+- [dust.](tynroar-dust.netlify.app) pug, js, less
 
 
 ---
