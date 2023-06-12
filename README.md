@@ -1,7 +1,7 @@
 # ![t](tile.png)![t](tile.png)![t](tile.png) Demos ![t](tile.png)![t](tile.png)![t](tile.png)
 
 - [personal page.](https://tynroar.netlify.app/) glsl sdf, shaders
-- [maze.](https://tynroar-maze.netlify.app/) c, raylib
+- [maze.](https://tynroar-maze.netlify.app/) c, raylib. [(src)](https://github.com/tynrare/tynroar-maze)
 - [3d math projections.](https://flamboyant-brown-41a2d9.netlify.app/?testcase=Math3dTest) js, webgl
 
 # ![t](tile.png)![t](tile.png)![t](tile.png) Other demos ![t](tile.png)![t](tile.png)![t](tile.png)
