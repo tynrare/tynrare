@@ -12,7 +12,7 @@
 - [spa.](https://tynroar-brume2303.netlify.app/) pug, less, js
 - [other 3d math demos.](https://flamboyant-brown-41a2d9.netlify.app/) js, webgl
 
-# ![t](tile.png)![t](tile.png)![t](tile.png) Code samles ![t](tile.png)![t](tile.png)![t](tile.png)
+# ![t](tile.png)![t](tile.png)![t](tile.png) Code samples ![t](tile.png)![t](tile.png)![t](tile.png)
 
 - [glsl](https://github.com/unbrumed/avatar/blob/main/src/glsl/iquilezles-raymarch.glsl) (iquilezles-raymarch.glsl)
 - [js](https://github.com/unbrumed/lib/blob/main/canvas_wrapper.js) (canvas_wrapper.js)
